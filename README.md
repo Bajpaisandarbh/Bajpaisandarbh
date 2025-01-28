@@ -1,3 +1,4 @@
+![logo](https://github.com/Bajpaisandarbh/Bajpaisandarbh/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Sandarbh Bajpai</h1>
 <h3 align="center">A passionate AI Fullstack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://38.media.tumblr.com/f0f2514e14fcafeef53453070ddbf5eb/tumblr_neo0zp9PWA1shpedgo1_500.gif">
