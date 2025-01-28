@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandarbh Bajpai</h1>
 <h3 align="center">A passionate AI Fullstack developer from India</h3>
-<img align="right" alt="coding" width=400px src="https://38.media.tumblr.com/f0f2514e14fcafeef53453070ddbf5eb/tumblr_neo0zp9PWA1shpedgo1_500.gif">
+<img align="right" alt="coding" width="400" src="https://38.media.tumblr.com/f0f2514e14fcafeef53453070ddbf5eb/tumblr_neo0zp9PWA1shpedgo1_500.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bajpaisandarbh&label=Profile%20views&color=0e75b6&style=flat" alt="bajpaisandarbh" /> </p>
 
 - 🔭 I’m currently working on **Integrated Search tool**
