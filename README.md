@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms alongwith Web development.**
 
-- 👨‍💻 All of my projects are available at [https://sandarbhportfolio.netlify.app/](https://sandarbhportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sandarbhportfolio.netlify.app/](https://spotlight-orpin-tau.vercel.app/)
 
 - 💬 Ask me about **react or anything you wish for 😊**
 
